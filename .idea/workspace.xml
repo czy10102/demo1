@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f947b2dc-c344-4671-822f-d1547702b77c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dzc1v7k8oFjlPwCLF7BdMDY9aO" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/mybatis-3-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\untitled\src\main\java\com\mapper" />
+      <recent name="E:\untitled\src\main\java" />
+      <recent name="E:\untitled\src\main\resources" />
+      <recent name="E:\untitled\src\main\java\mapper" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn idea:module" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f947b2dc-c344-4671-822f-d1547702b77c" name="Default Changelist" comment="" />
+      <created>1593431150568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593431150568</updated>
+      <workItem from="1593431151975" duration="5664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1593431231582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1593431231582" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1593438118847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593438118847" />
+    <state x="1174" y="500" key="FileChooserDialogImpl" timestamp="1593474376158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1174" y="500" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593474376158" />
+    <state width="826" height="401" key="GridCell.Tab.0.bottom" timestamp="1593474906437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="826" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593474906437" />
+    <state width="826" height="401" key="GridCell.Tab.0.center" timestamp="1593474906437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="826" height="401" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593474906437" />
+    <state width="826" height="401" key="GridCell.Tab.0.left" timestamp="1593474906437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="826" height="401" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593474906437" />
+    <state width="826" height="401" key="GridCell.Tab.0.right" timestamp="1593474906437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="826" height="401" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593474906437" />
+    <state width="826" height="401" key="GridCell.Tab.1.bottom" timestamp="1593474906657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="826" height="401" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593474906657" />
+    <state width="826" height="401" key="GridCell.Tab.1.center" timestamp="1593474906657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="826" height="401" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593474906657" />
+    <state width="826" height="401" key="GridCell.Tab.1.left" timestamp="1593474906657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="826" height="401" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593474906657" />
+    <state width="826" height="401" key="GridCell.Tab.1.right" timestamp="1593474906657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="826" height="401" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593474906657" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1593435217137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593435217137" />
+    <state x="875" y="315" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593474656338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="875" y="315" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1593474656338" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1593432273103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593432273103" />
+    <state x="1007" y="296" width="672" height="678" key="search.everywhere.popup" timestamp="1593474987247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1007" y="296" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593474987247" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Demo.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class</url>
+          <line>49</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class</url>
+          <line>94</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.configuration.databaseId" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
